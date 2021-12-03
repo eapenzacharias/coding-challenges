@@ -22,7 +22,7 @@ repeatedString has the following parameter(s):
 ### Returns
 - int: the frequency of a in the substring
 
-Input Format
+### Input Format
 - The first line contains a single string, `s` .
 - The second line contains an integer, `n`.
 
