@@ -1,4 +1,4 @@
-# Grading Students - HackerRank
+# Birthday Cake Candles - HackerRank
 
 ### [Challenge Link](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
 
