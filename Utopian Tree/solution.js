@@ -34,10 +34,10 @@ function utopianTree(n) {
   let height = 1;
   if (n > 0) {
     for (let i = 1; i <= n; i++) {
-      if (i % 2 === 0) {
-        height += 1;
-      } else {
+      if (i % 2 !== 0) {
         height = 2 * height;
+      } else {
+        height += 1;
       }
     }
   }
