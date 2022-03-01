@@ -1,6 +1,6 @@
 # Jumping on the Clouds - HackerRank
 
-### [Challenge Link](https://www.hackerrank.com/challenges/time-conversion/problem)
+### [Challenge Link](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)
 
 
 There is a new mobile game that starts with consecutively numbered clouds. Some of the clouds are thunderheads and others are cumulus. The player can jump on any cumulus cloud having a number that is equal to the number of the current cloud plus `1` or `2`. The player must avoid the thunderheads. Determine the minimum number of jumps it will take to jump from the starting postion to the last cloud. It is always possible to win the game.
